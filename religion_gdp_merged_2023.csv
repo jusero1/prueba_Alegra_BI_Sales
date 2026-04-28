@@ -1,0 +1,36 @@
+Country,ISO3,region,pct_pray_daily,pct_religiously_affiliated,pct_believe_life_after_death,pct_nature_spirits,pct_fortune_teller,gdp_ppp_2023
+Argentina,ARG,Latam,39.0,76,65.0,65.0,14.0,30221.5
+Australia,AUS,Anglosfera,16.0,48,49.0,48.0,11.0,72272.71
+Bangladesh,BGD,Asia,75.0,100,77.0,38.0,11.0,9147.78
+Brazil,BRA,Latam,76.0,84,66.0,58.0,10.0,21175.62
+Canada,CAN,Anglosfera,30.0,57,56.0,47.0,10.0,64219.32
+Chile,CHL,Latam,41.0,66,67.0,74.0,14.0,33145.4
+Colombia,COL,Latam,71.0,77,67.0,70.0,11.0,21246.38
+France,FRA,Europa,18.0,53,55.0,52.0,13.0,60838.94
+Germany,DEU,Europa,16.0,57,50.0,49.0,7.0,71684.03
+Ghana,GHA,Africa,73.0,98,74.0,87.0,16.0,7556.42
+Greece,GRC,Europa,37.0,86,56.0,48.0,4.0,42710.51
+Hungary,HUN,Europa,11.0,79,45.0,45.0,17.0,46592.39
+India,IND,Asia,71.0,99,43.0,79.0,45.0,10323.5
+Indonesia,IDN,Asia,95.0,100,85.0,57.0,7.0,15415.71
+Israel,ISR,Medio Oriente,34.0,99,61.0,28.0,14.0,55171.23
+Italy,ITA,Europa,35.0,77,56.0,57.0,9.0,60029.87
+Japan,JPN,Asia,21.0,44,47.0,56.0,19.0,50661.77
+Kenya,KEN,Africa,84.0,99,80.0,44.0,23.0,6317.04
+Malaysia,MYS,Asia,80.0,98,74.0,56.0,10.0,36466.89
+Mexico,MEX,Latam,44.0,79,69.0,64.0,12.0,25243.16
+Netherlands,NLD,Europa,20.0,46,51.0,39.0,9.0,81728.69
+Nigeria,NGA,Africa,84.0,99,71.0,63.0,20.0,8705.43
+Peru,PER,Latam,58.0,88,68.0,65.0,16.0,17011.23
+Philippines,PHL,Asia,79.0,99,78.0,73.0,22.0,10985.83
+Poland,POL,Europa,18.0,95,64.0,29.0,10.0,48473.09
+Singapore,SGP,Asia,45.0,78,68.0,62.0,19.0,143786.14
+South Africa,ZAF,Africa,63.0,86,59.0,74.0,47.0,15199.73
+South Korea,KOR,Asia,25.0,51,52.0,36.0,20.0,57429.8
+Spain,ESP,Europa,22.0,56,47.0,37.0,11.0,55682.24
+Sri Lanka,LKA,Asia,72.0,100,67.0,63.0,20.0,14455.65
+Sweden,SWE,Europa,8.0,47,38.0,32.0,7.0,69226.33
+Thailand,THA,Asia,31.0,100,50.0,73.0,29.0,23519.21
+Turkey,TUR,Asia,63.0,95,84.0,65.0,7.0,42786.2
+U.S.,USA,Anglosfera,44.0,69,70.0,48.0,9.0,82304.62
+UK,GBR,Anglosfera,21.0,54,53.0,42.0,8.0,59911.35
